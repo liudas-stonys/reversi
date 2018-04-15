@@ -1,1 +1,2 @@
-# reversi
+## CLI Python game
+### Reversi
