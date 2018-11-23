@@ -1,2 +1,2 @@
-## CLI Python game
-### Reversi
+# CLI Python game
+One of my first Python programs.
